@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TrystaRace
+- 👋 Hi, I’m @TrystaRaye
 - 👀 I’m interested in Full-Stack web development!
 - 🌱 I’m currently learning Full-Stack Fundamentals (HTML ,CSS, JavaScript etc.)
 - 📫 How to reach me: trystarace@gmail.com
